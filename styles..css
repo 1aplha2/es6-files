@@ -1,0 +1,88 @@
+.title1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.note{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 350px;
+    text-decoration: underline;   
+}
+.ip1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.ip2{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.ip3{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.ip4{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.ip5{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.img1{
+    border-radius: 100px;
+}
+.p1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100px;
+    font-size: 50px;
+}
+.img2{
+    border-radius: 100px;
+}
+.p2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100px;
+    font-size: 50px
+}
+.img3{
+    border-radius: 100px;
+}
+.p3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100px;
+    font-size: 50px
+}
+.img4{
+    border-radius: 100px;
+}
+.p4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100px;
+    font-size: 50px
+}
+.img5{
+   border-radius: 100px;
+}
+.p5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100px;
+    font-size: 50px
+}
+.img6{
+    border-radius: 100px;
+}
+.p6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100px;
+    font-size: 50px
+}
+.p7{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100px;
+    font-size: 50px
+}
